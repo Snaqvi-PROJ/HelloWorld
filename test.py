@@ -1,2 +1,1 @@
-print('hello world...')
-print('THis is a new line')
+print('This project is build after the commit...')
